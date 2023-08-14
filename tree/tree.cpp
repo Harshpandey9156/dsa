@@ -119,21 +119,26 @@ void levelOrderTraversal(node* root) {
         node* temp = q.front();
         q.pop();
 
-        if(temp == NULL) { 
+        if(temp == NULL) 
+        { 
             //purana level complete traverse ho chuka hai
             cout << endl;
-            if(!q.empty()) { 
+            if(!q.empty()) 
+            { 
                 //queue still has some child ndoes
                 q.push(NULL);
             }  
         }
-        else{
+        else
+        {
             cout << temp -> data << " ";
-            if(temp ->left) {
+            if(temp ->left) 
+            {
                 q.push(temp ->left);
             }
 
-            if(temp ->right) {
+            if(temp ->right) 
+            {
                 q.push(temp ->right);
             }
         }
