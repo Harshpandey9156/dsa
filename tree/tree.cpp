@@ -48,7 +48,7 @@ node* buildTree(node* root) {
     cout << "Enter data for inserting in right of " << data << endl;
     root->right = buildTree(root->right);
     return root;
-    
+
 
 }
 
@@ -115,7 +115,8 @@ void levelOrderTraversal(node* root) {
     q.push(root);
     q.push(NULL);
 
-    while(!q.empty()) {
+    while(!q.empty()) 
+    {
         node* temp = q.front();
         q.pop();
 
