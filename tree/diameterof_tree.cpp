@@ -15,6 +15,8 @@ Node* newNode(int val) {
     temp->left = NULL;
     temp->right = NULL;
     return temp;
+    
+    
 }
 Node* buildTree(string str) {
     // Corner Case
@@ -91,7 +93,8 @@ struct Node
     }
 }; */
 
-class Solution {
+class Solution 
+{
   public:
   pair<int,int>diameterfast( Node* root)
   {
