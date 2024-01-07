@@ -124,10 +124,7 @@ public:
                 if(len>maxlen){
                     maxlen=len;
                     maxsum=sum;
-                    
                 }
-                
-            
                 else if(len==maxlen)
                 {
                     maxsum=max(sum , maxsum);
@@ -144,13 +141,11 @@ public:
     {
         int sum=0;
         int len=0;
-        
         int maxsum=INT_MIN;
         int maxlen =0;
         
         solve(root,sum, maxsum,len, maxlen);
         return maxsum;
-        
         //code here
     }
 };
