@@ -1,4 +1,5 @@
-package DSA_JAVA;
+package Java;
+ 
 
 public class Premetive{
     public static void main(String[]args){

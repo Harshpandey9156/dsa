@@ -1,6 +1,12 @@
 {
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "Java.Inputs",
+            "projectName": "dsa_f4af3c"
+        },
         {
             "name": "C/C++: cpp.exe build and debug active file",
             "type": "cppdbg",
