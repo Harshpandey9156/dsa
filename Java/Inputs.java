@@ -14,6 +14,14 @@ public class Inputs {
 
         float Num=input.nextFloat();
         System.out.println(Num);
+
+        int num1=input.nextInt();
+        int num2 =input.nextInt();
+        int sum= num1+num2;
+        System.out.println("sum " + sum);
+        
+
+
          
     }
     
