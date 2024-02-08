@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "isPrime",
+            "request": "launch",
+            "mainClass": "Java.isPrime",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "Java.Overloading",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
             "name": "Inputs",
             "request": "launch",
             "mainClass": "Java.Inputs",
