@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ArmStrong",
+            "request": "launch",
+            "mainClass": "Java.ArmStrong",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
             "name": "isPrime",
             "request": "launch",
             "mainClass": "Java.isPrime",
