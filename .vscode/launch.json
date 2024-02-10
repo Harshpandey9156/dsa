@@ -2,6 +2,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MinimumInArray",
+            "request": "launch",
+            "mainClass": "Java.Array.MinimumInArray",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "SearchInString",
+            "request": "launch",
+            "mainClass": "Java.Array.SearchInString",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Java.Array.LinearSearch",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
             "name": "FunctionArray",
             "request": "launch",
             "mainClass": "Java.FunctionArray",
