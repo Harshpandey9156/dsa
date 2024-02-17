@@ -12,6 +12,9 @@ public class SearchingIN2D {
         int target =12;
         int[] ans=Search(arr, target) ;
         System.out.println(Arrays.toString(ans));
+
+
+        System.out.println(max(arr));
         
     }
     static int[] Search(int[][] arr,int target){
@@ -32,4 +35,21 @@ public class SearchingIN2D {
 
         
     }
+    //max value to find in that
+    static int max(int[][] arr){
+        int min=Integer.MIN_VALUE;
+        for(int[] i :arr){
+            for(int element : i){
+            if(element>min){
+                min=element;
+            }
+        }
+        
+
+        }
+        return min;
+
+
+    }
+
 }
