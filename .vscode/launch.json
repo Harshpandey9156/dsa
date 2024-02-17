@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SearchingIN2D",
+            "request": "launch",
+            "mainClass": "Java.Array.SearchingIN2D",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
             "name": "MinimumInArray",
             "request": "launch",
             "mainClass": "Java.Array.MinimumInArray",
