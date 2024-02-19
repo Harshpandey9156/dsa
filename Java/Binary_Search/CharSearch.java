@@ -14,6 +14,7 @@ public class CharSearch {
                         }
                         else{
                             end=mid-1;
+                            
                         }
                     
                 }
