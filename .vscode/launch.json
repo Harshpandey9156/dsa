@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Mountain",
+            "request": "launch",
+            "mainClass": "Java.Binary_Search.Mountain",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteArray",
+            "request": "launch",
+            "mainClass": "Java.Binary_Search.InfiniteArray",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
             "name": "OrderAugnositcBS",
             "request": "launch",
             "mainClass": "Java.Binary_Search.OrderAugnositcBS",
