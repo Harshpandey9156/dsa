@@ -1,6 +1,96 @@
 {
     "configurations": [
-        
+        {
+            "type": "java",
+            "name": "Mountain",
+            "request": "launch",
+            "mainClass": "Java.Binary_Search.Mountain",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "InfiniteArray",
+            "request": "launch",
+            "mainClass": "Java.Binary_Search.InfiniteArray",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "OrderAugnositcBS",
+            "request": "launch",
+            "mainClass": "Java.Binary_Search.OrderAugnositcBS",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Java.Binary_Search.BinarySearch",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "SearchingIN2D",
+            "request": "launch",
+            "mainClass": "Java.Array.SearchingIN2D",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "MinimumInArray",
+            "request": "launch",
+            "mainClass": "Java.Array.MinimumInArray",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "SearchInString",
+            "request": "launch",
+            "mainClass": "Java.Array.SearchInString",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Java.Array.LinearSearch",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "FunctionArray",
+            "request": "launch",
+            "mainClass": "Java.FunctionArray",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "ArmStrong",
+            "request": "launch",
+            "mainClass": "Java.ArmStrong",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "isPrime",
+            "request": "launch",
+            "mainClass": "Java.isPrime",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "Overloading",
+            "request": "launch",
+            "mainClass": "Java.Overloading",
+            "projectName": "dsa_f4af3c"
+        },
+        {
+            "type": "java",
+            "name": "Inputs",
+            "request": "launch",
+            "mainClass": "Java.Inputs",
+            "projectName": "dsa_f4af3c"
+        },
         {
             "name": "C/C++: cpp.exe build and debug active file",
             "type": "cppdbg",
