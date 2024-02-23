@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MedianOfTwoSorted",
+            "request": "launch",
+            "mainClass": "Java.Binary_Search.MedianOfTwoSorted",
+            "projectName": "dsa_7751c099"
+        },
+        {
+            "type": "java",
             "name": "Mountain",
             "request": "launch",
             "mainClass": "Java.Binary_Search.Mountain",

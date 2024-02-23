@@ -1,4 +1,4 @@
-package Java.Binary_Search;
+
 
 public class SearchInMountain {
     public static void main(String[] args) {

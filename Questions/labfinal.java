@@ -18,7 +18,7 @@ if(disc==0)
         System.out.println("roots are "+x1+","+x2);
 }
 else if(disc>0)
-{
+{ 
         System.out.println("roots are real and unequal");
         x1=(-b+Math.sqrt(disc))/(2*a);
         x2=(-b-Math.sqrt(disc))/(2*a);
