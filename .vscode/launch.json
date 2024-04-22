@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "square",
+            "request": "launch",
+            "mainClass": "Java.Pattern.square",
+            "projectName": "dsa_7751c099"
+        },
+        {
+            "type": "java",
             "name": "Palindrome",
             "request": "launch",
             "mainClass": "Java.String.Palindrome",
