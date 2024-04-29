@@ -2,6 +2,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rotation",
+            "request": "launch",
+            "mainClass": "Java.Pattern.Rotation",
+            "projectName": "dsa_7751c099"
+        },
+        {
+            "type": "java",
             "name": "square",
             "request": "launch",
             "mainClass": "Java.Pattern.square",
