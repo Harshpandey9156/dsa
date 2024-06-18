@@ -2,6 +2,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "TypeCasting",
+            "request": "launch",
+            "mainClass": "Java.TypeCasting",
+            "projectName": "dsa_7751c099"
+        },
+        {
+            "type": "java",
+            "name": "VarArgs",
+            "request": "launch",
+            "mainClass": "Java.VarArgs",
+            "projectName": "dsa_7751c099"
+        },
+        {
+            "type": "java",
+            "name": "largestNum",
+            "request": "launch",
+            "mainClass": "Java.largestNum",
+            "projectName": "dsa_7751c099"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "Java.Array.first",
+            "projectName": "dsa_7751c099"
+        },
+        {
+            "type": "java",
             "name": "Rotation",
             "request": "launch",
             "mainClass": "Java.Pattern.Rotation",

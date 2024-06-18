@@ -1,0 +1,14 @@
+// Create a new node
+newNode = Node(data)
+
+// If the list is empty, make the new node the head
+if head is None:
+    head = newNode
+
+// Otherwise, add the new node to the end of the list
+// the nodes is 
+else:
+    current = head
+    while current.next None:
+        current = current.next
+    current.next = newNode
